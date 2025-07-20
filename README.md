@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @raneha
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently pursuing B.E. in Electronics & Telecommunication
+👋 Hi, I’m Neha Rane
+👀 I’m passionate about Web Development and Salesforce
+🎓 I have completed my B.E. in Electronics & Telecommunication Engineering
