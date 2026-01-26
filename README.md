@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Neha Rane
-- 👀 I’m passionate about Data Analysis and Salesforce
+- 👀 I’m passionate about Data Analysis and Data Science
 - 🎓 I have completed my B.E. in Electronics & Telecommunication Engineering
