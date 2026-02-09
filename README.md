@@ -1,5 +1,5 @@
-# Hi, I'm Neha Rane! 👋  
-**Data Analyst | Business Analyst**
+# Hi, I'm Neha Rane! 👋
+### Data Analyst | Business Analyst
 
 ## 📌 About Me
 
@@ -9,9 +9,7 @@ My strengths lie in **SQL-based analysis**, **Power BI dashboarding**, and **Exc
 
 I’m continuously learning and improving my skills in **data modeling, KPI design, and storytelling with data**, while exploring cloud and analytics engineering.
 
-
 ## 🛠️ My Skills
-
 ### 🔹 Programming & Querying
 - SQL 
 - Python
